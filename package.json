@@ -1,0 +1,17 @@
+{
+  "name": "bolhuiswebite",
+  "version": "1.0.0",
+  "description": "for tailwind:\r npm install\r npx tailwindcss -i ./src/input.css -o ./src/style.css --watch",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "dev": "tailwindcss -i ./src/prototype/input.css -o ./src/prototype/style.css --minify --watch"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@tailwindcss/cli": "^4.1.17",
+    "tailwindcss": "^4.1.17"
+  }
+}
