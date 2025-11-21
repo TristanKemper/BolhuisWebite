@@ -88,3 +88,9 @@
     border-radius: 10px;
     border: #d2d2d2 1px solid;
 }
+
+.photo-border {
+    border: rgb(19, 107, 158) 1px solid;
+    box-shadow: #333333 2px 2px 3px;
+    border-radius: 5px;
+}
